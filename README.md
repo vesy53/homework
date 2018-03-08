@@ -1,2 +1,4 @@
 # homework
-Repo made for exercises.This will make a conflict!
+This project will contain...
+Repo made for exercises.
+Hello, again!!!
