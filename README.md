@@ -1,4 +1,4 @@
 # homework
 Personal homework.
-Git and GitHub - exercises
+Repo made for exercises.
 Making some changes here!
