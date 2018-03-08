@@ -1,5 +1,3 @@
 # homework
-
-This will make a conflict!
-:(
-
+<<<<<<< HEADThis will make a conflict!
+;D
