@@ -1,4 +1,4 @@
 # homework
 This project will contain...
-Repo made for exercises.
-Hello, again!!!
+Repository made for exercises.
+Edited again in master branch..
