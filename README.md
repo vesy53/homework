@@ -1,3 +1,2 @@
 # homework
-This will make a conflict!
-;D
+Repo made for exercises.This will make a conflict!
